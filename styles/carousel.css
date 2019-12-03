@@ -1,0 +1,26 @@
+@import url('reset.css');
+
+/* General Demo Style */
+body{
+	background:#e4ebe9 url(../images/pattern.png) repeat top left;
+	
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+.clr{
+	clear:both;
+}
+
+h1 span, h5{
+	font-size:20px;
+	display:block;
+	font-weight: bold;
+	font-family: "Helvetica Neue", Verdana, Arial, serif;
+}
+
+.ca-more{
+	font-size: 12px;
+	color: #333;
+}

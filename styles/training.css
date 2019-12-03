@@ -1,0 +1,69 @@
+/* Media query for mobile layout */ 
+
+@media only screen and (min-width: 360px) {
+
+	/* Styles for Mobile Layout */
+		#welcome_image {
+			display: none;
+		}
+}
+
+/* Media query for tablet layout */ 
+
+@media only screen and (min-width: 600px) {
+
+	/* Styles for Mobile Layout */
+		#welcome_image {
+			display: inline;
+		}
+}
+
+/* Media query for desktop layout */ 
+
+@media only screen and (min-width: 1000px) {
+
+	/* Styles for Mobile Layout */
+		#welcome_image {
+			display: inline;
+		}
+}
+
+#schedule {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	border: 5px solid yellowgreen;
+
+}
+
+#schedule td, #schedule th {
+    border: 1px solid #ddd;
+    padding: 8px;
+	border-collapse: collapse;
+}
+
+#schedule tr:nth-child(even){background-color: #f2f2f2;}
+
+#schedule tr:hover {background-color: #ddd;}
+
+#schedule th:hover {background-color: #dd0;}
+
+#no_class :hover {background-color: #f00;}
+
+#schedule th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #333;
+    color: white;
+	text-align: center;
+}
+
+#schedule caption {
+	padding-top: 12px;
+    padding-bottom: 12px;
+	text-align: left;
+}
+
+#welcome p {
+	 font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
