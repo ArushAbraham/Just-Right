@@ -1,0 +1,74 @@
+{"teammembers":[
+	{
+		"name":"Arush Abraham",
+		"title":"Chief Executive Officer",
+		"department":"Management",
+		"bio":"Just Right's CFO still follows what his father told him, 'Perfection or Nothing'."
+	},
+	{
+		"name":"Grace Samuel",
+		"title":"Assistant Administrative Officer",
+		"department":"Office",
+		"bio":"Sometimes one needs two golden helping hands."
+	},
+	{
+		"name":"Ouseph Abraham",
+		"title":"Assistant Administrative Officer",
+		"department":"Office",
+		"bio":"Well... looks like more hands are needed to do paperworks!"
+	},
+	{
+		"name":"Ryan Tyan",
+		"title":"Salesman",
+		"department":"Sales",
+		"bio":"Since him joining the team, the sales are skyrocketing. Wonder what he does?"
+	},
+	{
+		"name":"Logan Wolvy",
+		"title":"Salesman",
+		"department":"Sales",
+		"bio":"He was the one who came up with the idea of free 8up's with each sale."
+	},
+	{
+		"name":"Philip K",
+		"title":"Salesman",
+		"department":"Sales",
+		"bio":"Writing a book on 'How to do sales 101' along with helping HR."
+	},
+	{
+		"name":"J Wick",
+		"title":"Security",
+		"department":"Office",
+		"bio":"Makes sure the office is a safe environment."
+	},
+	{
+		"name":"Michael Scott",
+		"title":"Chief Sales Officer",
+		"department":"Sales",
+		"bio":"After the resignation from Dunder Mifflin, he is always here."
+	},
+	{
+		"name":"Pam Anderson",
+		"title":"Receptionist",
+		"department":"Office",
+		"bio":"Who doesn't love a welcoming smile?"
+	},
+	{
+		"name":"Jon Snow",
+		"title":"Chair Ordering",
+		"department":"Office",
+		"bio":"Doesn't know what's he doing, but hey, everyone counts!"
+	},
+	{
+		"name":"Chester B",
+		"title":"Music",
+		"department":"Recreation",
+		"bio":"Everyone wants some music for their souls!"
+	},
+	{
+		"name":"Capel Boy",
+		"title":"Lease",
+		"department":"Other",
+		"bio":"Rents and leases factories/ stores for JR!"
+	}
+]}
