@@ -556,7 +556,7 @@
 
 /* Media query for desktop layout */
 
-@media only screen and (min-width: 1980px) {
+@media only screen and (min-width: 860px) {
 	
 
 	/* Style for the container centers the page and specifies the width */
